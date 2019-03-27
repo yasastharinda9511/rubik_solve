@@ -1,7 +1,7 @@
 import copy
 import time
 start_time = time.time()
-rubix=[[["B","Y","G"],["O","W","B"],["O","O","W"]],
+rubix=[[["B","Y","G"],["O","W","B"],["O","O","W"]], #put your rubic cube permutation here
        [["W","B","R"],["G","G","B"],["Y","R","Y"]],
        [["B","W","G"],["R","Y","G"],["G","G","W"]],
        [["B","Y","R"],["W","B","W"],["O","Y","R"]],
