@@ -13,3 +13,6 @@ My rubic cube solving algorithm based on this [web page](https://ruwix.com/the-r
 All the standards are defined according to the data provide that [web page](https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/)
 
 # images of rubic Solver
+
+![20201116_000151](https://user-images.githubusercontent.com/37435024/99194101-7457dd80-27a3-11eb-90df-1fef694402e2.jpg)
+
