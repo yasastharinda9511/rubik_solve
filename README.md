@@ -18,8 +18,9 @@ All the standards are defined according to the data provide that [web page](http
 
 # Screenshots of Different Stages
 
-## First stage( white cross on yeloow face)
+## First stage( white cross on yelow face)
 
+![20201116_003235](https://user-images.githubusercontent.com/37435024/99194314-ae75af00-27a4-11eb-93e1-98fc94a8b027.png)
 
 ## Final stage
 
