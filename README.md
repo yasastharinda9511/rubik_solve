@@ -16,6 +16,10 @@ All the standards are defined according to the data provide that [web page](http
 
 ![20201116_000151](https://user-images.githubusercontent.com/37435024/99194101-7457dd80-27a3-11eb-90df-1fef694402e2.jpg)
 
+# Algotithm stages
+
+![Screenshot (564)](https://user-images.githubusercontent.com/37435024/101310041-d3c17e80-3873-11eb-8027-78569cec99a5.png)
+
 # Screenshots of Different Stages
 
 ## First stage( white cross on yelow face)
